@@ -1,0 +1,18 @@
+{
+  "user":{
+    "login":{
+      "url": "http://localhost:3000/users/login",
+      "methods": "post"
+    },
+    "signup":{
+      "url": "http://localhost:3000/users/signup",
+      "methods": "post"
+    }
+  },
+  "notes": {
+    "note": {
+      "url": "http://localhost:3000/notes/",
+      "methods": "get"
+    }
+  }
+}
